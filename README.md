@@ -1,2 +1,2 @@
 # Hello-Git
-Just another repository
+this is a new branch
